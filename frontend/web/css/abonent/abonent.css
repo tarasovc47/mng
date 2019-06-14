@@ -1,0 +1,17 @@
+.abonent__left-menu{
+	width: 250px;
+    float: left;
+    margin-top: -68px;
+}
+
+#page-wrapper{
+    overflow: hidden;
+}
+
+.abonent__abonent, .abonent__client{
+    overflow: hidden;
+}
+
+.page-header, .abonent__abonent, .abonent__client{
+	margin-left: 275px;
+}

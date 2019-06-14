@@ -1,0 +1,154 @@
+.label_create{
+	width: 100%;
+	margin: 0;
+	cursor: pointer;
+}
+
+.create-section__login h4{
+	margin: 0;
+}
+
+.create-section .departments{
+	border-bottom: 1px solid #ececec;
+	margin-top: 20px;
+}
+
+.create-section .departments-title{
+	font-weight: bold;
+}
+
+.create-section .departments-show-all{
+	font-size: 11px;
+}
+
+.create-section .department{
+	padding: 10px 5px;
+	cursor: pointer;
+	border: 1px solid #ececec;
+	border-bottom: none;
+	display: none;
+	position: relative;
+}
+
+.create-section .department-hint{
+	position: absolute;
+    left: 0;
+    bottom: 45px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: none;
+}
+
+.create-section .department-hint:after{
+	display: block;
+    position: absolute;
+    left: 20px;
+    bottom: -17px;
+    content: "";
+    border-top: 7px solid rgba(0, 0, 0, 0.8);
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid transparent;
+    display: none;
+}
+
+.create-section .department.has-hint:hover .department-hint,
+.create-section .department.has-hint:hover .department-hint:after{
+	display: block;
+}
+
+.create-section .department:hover,
+.create-section .department.maybe:hover{
+	background: #ececec;
+	color: #000000;
+}
+
+.create-section .department.maybe{
+	color: #8a6d3b;
+    background-color: #fcf8e3;
+}
+
+.create-section .department.checked,
+.create-section .department.checked:hover{
+	color: #3c763d;
+    background-color: #dff0d8;
+}
+
+.create-section .department .fa{
+	display: none;
+}
+
+.create-section .department.checked .fa{
+	display: inline-block;
+}
+
+.create-app{
+	display: none;
+}
+
+.attributes .attribute-desc{
+	color: #83878c;
+	font-size: 12px;
+}
+
+.attributes .child{
+	display: none;
+}
+
+.attributes .child.show{
+	display: block;
+}
+
+.connection_technology.checked .attributes{
+	margin-top: -5px;
+	padding-left: 7px;
+}
+
+.attribute-field{
+	padding: 5px 10px;
+	background: #f5f5f5;
+	border: 1px solid #eeeeee;
+	border-radius: 5px;
+	margin-top: 10px;
+	display: none;
+}
+
+.attribute-field.error,
+.create-section.error{
+    border-color: #a94442;
+}
+
+.attribute-field__label{
+	font-weight: 700;
+}
+
+.attribute-field.error .attribute-field__label{
+	color: #a94442;
+}
+
+.attribute-field__error,
+.create-section__error{
+	color: #a94442;
+	font-size: 11px;
+}
+
+.attribute-field .req{
+	color: #ff0000;
+}
+
+.attribute-field .checkbox.first,
+.attribute-field .radio.first{
+	margin-top: 0px;
+}
+
+.attribute-field .checkbox:last-child,
+.attribute-field .radio:last-child{
+	margin-bottom: 0px;
+}
+
+.create-section .brigades-nod{
+	margin-top: 20px;
+}

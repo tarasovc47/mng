@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"address",
+				"addresses_stack"
+			],
+			[
+				"helper",
+				"yii\\helpers\\Html"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"conn",
+				"conn_tech_deselected"
+			],
+			[
+				"conn_techs",
+				"conn_techs_list"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"helpers",
+				"yii\\helpers\\Json"
+			],
+			[
+				"conn_tech",
+				"conn_techs_individual"
+			],
+			[
+				"data",
+				"data-abonent-type"
+			],
+			[
+				"bg",
+				"bg-info \tBootstrap 3 Class"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"yii",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"ContactFaces",
+				"ContactFacesPhones"
+			],
+			[
+				"zones",
+				"zones__address__porch-control"
+			],
+			[
+				"Json",
+				"yii\\helpers\\Json"
+			],
+			[
+				"html",
+				"Html"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"Hel",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"Jso",
+				"yii\\helpers\\Json"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"al",
+				"alert-success \tBootstrap 3 Class"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ArrayHelpr",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"Query",
+				"yii\\db\\Query"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ch",
+				"chosen"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"alert",
+				"alert-danger \tBootstrap 3 Class"
+			],
+			[
+				"table",
+				"table \tBootstrap 3 Class"
+			],
+			[
+				"btn-",
+				"btn-success"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"BG",
+				"bg-success \tBootstrap 3 Class"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"arrayHel",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"tariff",
+				"tariff_id"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"Array",
+				"ArrayHelper"
+			],
+			[
+				"chose",
+				"chosen-drop"
+			],
+			[
+				"Html",
+				"yii\\helpers\\Html"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"tariffs_",
+				"tariffs_individual"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"package",
+				"package_tariff"
+			],
+			[
+				"agreemen",
+				"agreements"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"ArrayHelper",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"Arra",
+				"ArrayHelper"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"branch",
+				"branch_id"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"container",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"file_e",
+				"file_get_contents"
+			],
+			[
+				"ge",
+				"geoObjects"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Arr",
+				"ArrayHelper"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"arrayHe",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"field",
+				"fieldSettings"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"ArrayHe",
+				"yii\\helpers\\ArrayHelper"
+			],
+			[
+				"cas",
+				"cas_user_id"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frontend/components/FrontendComponent.php",
+			"settings":
+			{
+				"buffer_size": 3088,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "frontend/web/results.json",
+			"settings":
+			{
+				"buffer_size": 41704,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/mng_local",
+		"/var/www/mng_local/common",
+		"/var/www/mng_local/common/config",
+		"/var/www/mng_local/common/models",
+		"/var/www/mng_local/frontend",
+		"/var/www/mng_local/frontend/components",
+		"/var/www/mng_local/frontend/modules",
+		"/var/www/mng_local/frontend/modules/zones",
+		"/var/www/mng_local/frontend/modules/zones/controllers",
+		"/var/www/mng_local/frontend/web",
+		"/var/www/mng_local/frontend/web/js",
+		"/var/www/mng_local/frontend/web/js/abonent",
+		"/var/www/mng_local/frontend/web/js/tariffs",
+		"/var/www/mng_local/frontend/web/js/zones"
+	],
+	"file_history":
+	[
+		"/var/www/mng_local/TODO",
+		"/var/www/mng_local/common/fixtures/Tickets.php",
+		"/var/www/mng_local/tests/unit/TicketsTest.php",
+		"/var/www/mng_local/common/models/Tickets.php",
+		"/var/www/mng_local/tests/codeception/common/unit/models/TicketsTest.php",
+		"/var/www/mng_local/vendor/bin/codecept",
+		"/var/www/mng_local/tests/codeception/common/_bootstrap.php",
+		"/var/www/mng_local/tests/codeception/common/codeception.yml",
+		"/var/www/mng_local/tests/codeception/common/unit.suite.yml",
+		"/var/www/mng_local/tests/codeception/common/unit/models/LoginFormTest.php",
+		"/var/www/mng_local/hello.txt",
+		"/var/www/mng_local/common/codeception.yml",
+		"/var/www/mng_local/codeception.yml",
+		"/var/www/mng_local/common/tests/unit/models/TicketsTest.php",
+		"/var/www/mng_local/tests/codeception/config/config.php",
+		"/var/www/mng_local/common/config/test.php",
+		"/var/www/mng_local/common/fixtures/User.php",
+		"/var/www/mng_local/vendor/codeception/verify/src/Codeception/Verify.php",
+		"/var/www/mng_local/tests/codeception/frontend/codeception.yml",
+		"/var/www/mng_local/tests/codeception/common/fixtures/TicketsFixture.php",
+		"/var/www/mng_local/tests/codeception/common/fixtures/data/ticket.php",
+		"/var/www/mng_local/tests/unit.suite.yml",
+		"/var/www/mng_local/tests/codeception/common/unit/fixtures/data/models/user.php",
+		"/var/www/mng_local/tests/functional.suite.yml",
+		"/var/www/mng_local/tests/codeception/config/acceptance.php",
+		"/var/www/mng_local/tests/EXAMPLE.rb",
+		"/var/www/mng_local/tests/codeception/common/fixtures/data/init_login.php",
+		"/var/www/mng_local/tests/codeception/frontend/acceptance.suite.yml",
+		"/var/www/mng_local/frontend/web/index-test.php",
+		"/home/user/mng72.backup",
+		"/var/www/mng_local/tests/codeception/config/common/unit.php",
+		"/var/www/mng_local/vendor/yiisoft/yii2/web/User.php",
+		"/var/www/mng_local/vendor/codeception/base/autoload.php",
+		"/var/www/mng_local/common/models/LoginForm.php",
+		"/var/www/mng_local/tests/codeception/common/fixtures/UserFixture.php",
+		"/var/www/mng_local/console/migrations/m171120_105934_ticket_table_create.php",
+		"/var/www/mng_local/vendor/yiisoft/yii2/test/ActiveFixture.php",
+		"/var/www/mng_local/tests/codeception.yml",
+		"/var/www/mng_local/composer.json",
+		"/var/www/mng_local/vendor/yiisoft/yii2-codeception/README.md",
+		"/var/www/mng_local/daemon.php",
+		"/home/user/Рабочий стол/docs-archive/index.php",
+		"/home/user/Рабочий стол/docs-archive/view.php",
+		"/home/user/Рабочий стол/DocsArchiveController.php",
+		"/home/user/Рабочий стол/docs-archive/_search.php",
+		"/home/user/Рабочий стол/docs-archive/update.php",
+		"/home/user/Рабочий стол/docs-archive/_form.php",
+		"/home/user/Рабочий стол/docs-archive/create.php",
+		"/home/user/Рабочий стол/DocsArchive.php",
+		"/home/user/Рабочий стол/docsArchive.css",
+		"/home/user/Рабочий стол/docsArchive.js",
+		"/var/www/mng_local/frontend/web/js/abonent/docsArchive.js",
+		"/var/www/mng_local/frontend/web/css/abonent/docsArchive.css",
+		"/home/user/Загрузки/YiiStateMachine-master/AState.php",
+		"/home/user/Загрузки/YiiStateMachine-master/AStateMachine.php",
+		"/etc/php/7.0/cli/php.ini",
+		"/home/user/Загрузки/YiiStateMachine-master/AInvalidStateException.php",
+		"/var/log/apache2/error.log",
+		"/home/user/Загрузки/YiiStateMachine-master/tests/AStateMachineTest.php",
+		"/home/user/.config/sublime-text-3/Packages/PlainTasks/PlainTasks (Linux).sublime-settings",
+		"/home/user/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/user/.config/sublime-text-3/Packages/User/PlainTasks.sublime-settings",
+		"/var/www/mng_local/frontend/assets/AppAsset.php",
+		"/var/www/mng_local/frontend/modules/zones/controllers/PoligonsController.php",
+		"/var/www/mng_local/frontend/web/results.json",
+		"/home/user/Загрузки/results (1).json",
+		"/home/user/Загрузки/results.json",
+		"/var/www/mng_local/common/models/ZonesAddressesToTariffs.php",
+		"/var/www/mng_local/frontend/web/js/managCompanies.js",
+		"/home/user/Рабочий стол/Maps/Polygons/PoligonsController.php",
+		"/home/user/Рабочий стол/Maps/Polygons/readme.txt",
+		"/var/www/mng_local/frontend/modules/zones/views/poligons/index.php",
+		"/var/www/mng_local/frontend/web/js/zones/poligons.js",
+		"/var/www/mng_local/frontend/web/zones__addresses.csv",
+		"/var/www/mng_local/frontend/web/zones__addresses11.csv",
+		"/var/www/mng_local/frontend/web/новый файл",
+		"/var/www/mng_local/common/components/SiteHelper.php",
+		"/var/www/mng_local/frontend/web/.htaccess",
+		"/var/www/mng_local/frontend/web/js/poligons.js",
+		"/home/user/Загрузки/Городские бригады_25-10-2017_10-45-38(1).kml",
+		"/etc/apache2/sites-available/mng-local.conf",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/root/.config/sublime-text-3/Packages/PlainTasks/PlainTasks (Linux).sublime-settings",
+		"/root/.config/sublime-text-3/Packages/User/PlainTasks.sublime-settings",
+		"/var/www/mng_local/common/models/ZonesAddresses.php",
+		"/var/www/mng_local/frontend/modules/zones/views/zones-addresses/__addresses_list_table.php",
+		"/var/www/mng_local/frontend/web/css/zones/zonesAddresses.css",
+		"/var/www/mng_local/frontend/modules/zones/views/zones-addresses/_form.php",
+		"/var/www/mng_local/frontend/modules/zones/controllers/ZonesAddressesController.php",
+		"/var/www/mng_local/frontend/web/js/zones/zonesAddresses.js",
+		"/home/user/mng72/common/components/SiteHelper.php",
+		"/home/user/mng72/vendor/yiisoft/yii2/helpers/BaseJson.php",
+		"/home/user/mng72/frontend/modules/zones/controllers/DistrictsAndAreasController.php",
+		"/home/user/mng72/frontend/modules/ipmon/models/BackboneSwitches.php",
+		"/home/user/mng72/frontend/web/js/ipmon/backbone.js",
+		"/home/user/mng72/frontend/modules/ipmon/controllers/BackboneController.php",
+		"/home/user/mng72/frontend/modules/ipmon/views/backbone/index.php",
+		"/home/user/mng72/frontend/web/js/zones/zonesAddresses.js",
+		"/home/user/mng72/frontend/views/addresses-recycle/index.php",
+		"/home/user/mng72/common/models/AddressesRecycle.php",
+		"/home/user/mng72/console/migrations/m171101_034006_addresses_recycle_postcode.php",
+		"/home/user/mng72/frontend/controllers/AddressesRecycleController.php",
+		"/home/user/mng72/frontend/components/FrontendComponent.php",
+		"/home/user/mng72/TODO",
+		"/home/user/mng72/console/migrations/m171031_102731_actual_companies.php",
+		"/home/user/Рабочий стол/addresses_recycle.csv",
+		"/home/user/mng72/common/models/ZonesAddresses.php",
+		"/home/user/mng72/frontend/modules/zones/views/zones-addresses/_form.php",
+		"/home/user/mng72/frontend/modules/zones/views/zones-addresses/index.php",
+		"/home/user/mng72/frontend/modules/zones/controllers/ZonesAddressesController.php",
+		"/home/user/.local/share/Trash/files/_mass_form.php",
+		"/home/user/mng72/frontend/modules/zones/views/zones-addresses/update.php",
+		"/home/user/mng72/frontend/modules/zones/views/zones-addresses/create.php",
+		"/home/user/mng72/frontend/modules/zones/views/zones-addresses/mass_create.php",
+		"/home/user/mng72/frontend/web/js/addresses-recycle.js",
+		"/home/user/mng72/frontend/web/clients_active.csv",
+		"/home/user/mng72/frontend/assets/AppAsset.php",
+		"/home/user/mng72/vendor/yiisoft/yii2/helpers/BaseHtml.php",
+		"/home/user/mng72/vendor/yiisoft/yii2/data/ActiveDataProvider.php",
+		"/home/user/mng72/vendor/yiisoft/yii2/helpers/Html.php",
+		"/home/user/mng72/console/migrations/m171026_060938_groups_of_tariffs.php",
+		"/home/user/mng72/frontend/modules/tariffs/controllers/TariffsController.php",
+		"/home/user/mng72/frontend/modules/tariffs/views/tariffs-groups/update.php",
+		"/home/user/mng72/frontend/modules/tariffs/views/tariffs-groups/view.php",
+		"/home/user/mng72/frontend/modules/tariffs/views/tariffs-groups/_form.php",
+		"/home/user/mng72/frontend/modules/tariffs/views/tariffs-groups/create.php",
+		"/home/user/mng72/frontend/modules/tariffs/views/tariffs-groups/index.php",
+		"/home/user/mng72/common/models/TariffsGroups.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"code",
+			"mbstring",
+			"checked",
+			"нужно",
+			"\n- name\n- planned_start_on\n- start_on\n- planned_end_on\n- end_on\n- description",
+			"спс",
+			"бригада",
+			"спс",
+			"cgc",
+			"бригада",
+			"спс",
+			"бригада",
+			"спс",
+			"f3c2e0db-acef-46a4-b3c2-1fa0c0549a7e",
+			"allow",
+			"addresses_stack",
+			"prop('checked'",
+			"address:disable",
+			"index",
+			"btnPin",
+			"index",
+			"BackboneSwitches",
+			"model()",
+			"validate()",
+			"save()",
+			"actionCreate",
+			"enable",
+			"parse",
+			"checked",
+			"bootstrap",
+			"a()",
+			"actionMass",
+			"with",
+			"di",
+			"conclusion",
+			"loadNotRecycledCompanies",
+			"conn_techs_list"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frontend/components/FrontendComponent.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2832,
+								2832
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "frontend/web/results.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41704,
+								41704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 332401.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 458.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

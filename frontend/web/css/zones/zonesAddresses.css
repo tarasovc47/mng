@@ -1,0 +1,161 @@
+#zones__form-map{
+    max-width: 800px;
+    height: 400px;
+    margin-bottom: 15px;
+}
+
+.zones__address__tab-content .tab-pane{
+    margin-top: 15px;
+}
+
+.zones__address__add-porch{
+    margin-bottom: 15px;
+}
+
+.zones__address__add-porch i.fa, .zones__address__add-floor i.fa, .zones__address__add-floors i.fa{
+    margin-right: 7px;
+}
+
+.zones__address__add-floor{
+    margin-right: 10px;
+}
+
+.zones__address__floor{
+    margin-top: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.zones__address__floor:last-child{
+    border-bottom: none;
+}
+
+.zones__address__flats-buttons, .zones__address__flats, .zones__address__offices, .zones__address__offices-buttons{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.zones__address__flat{
+    display: inline-block;
+    padding: 15px 10px;
+    border: 1px solid #ddd;
+    border-right: none;
+    margin-right: -4px;
+    position: relative;
+}
+
+.zones__address__flat:last-child{
+    border-right: 1px solid #ddd;
+}
+
+.tariffs-individual__checkbox-panel{
+    cursor: pointer;
+}
+
+.zones-addresses__view__techs-individual > li, .zones-addresses__view__techs-entity > li{
+    list-style: none;
+}
+
+.zones-addresses__view__techs-individual,.zones-addresses__view__techs-entity{
+    padding-left: 0;
+}
+
+.zones__address-view__scheme{
+    overflow: hidden;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.floor-row{
+    overflow: hidden;
+}
+
+.floor-row .floor{
+    width: 60px;
+}
+
+.office, .floor, .flat{
+    float: left;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-left: none;
+}
+
+.office, .flat{
+    width: 70px;
+    text-align: center;
+}
+
+#zones__address-view__map-place{
+    width: 600px;
+    height: 600px;
+}
+
+.zones-search{
+    display: none;
+}
+
+.zones__address__flat-control{
+    position: absolute;
+    right: 5px;
+    top: 0;
+    cursor: pointer;
+    display: none;
+}
+
+.zones__address__flat:hover .zones__address__flat-control,
+.zones__address__floor:hover .zones__address__floor-control,
+.zones__address__porch-panel-heading .panel-heading:hover .zones__address__porch-control
+{
+    display: inline-block;
+}
+
+.zones__address__floor-control, .zones__address__porch-control{
+    cursor: pointer;
+    display: none;
+}
+
+.zones__mass-addresses__tab-content #multiple-addresses-form-widget{
+    margin-top: 0;
+}
+
+.zones__view__tariffs-container, .zones__form__tariffs-container, .zones__form__groups-container{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: space-between;
+    margin-right: -20px;
+    cursor: pointer;
+}
+
+.zones__view__tariff-panel, .zones__form__tariff-panel, .zones__form__group-panel{
+    margin-right: 20px;
+    max-width: 300px;
+}
+
+#zones__address__addresses-list{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: space-between;
+}
+
+#addresses-list__chosen, #addresses-list__table{
+    flex-basis: 48%;
+}
+
+.addresses-list__delete{
+    color: #f0ad4e;
+    cursor: pointer;
+}
+
+#addresses-list__table__check-all, #addresses-list__table__uncheck-all{
+    cursor: pointer;
+}
+
+.zones__addresses__tariffs{
+    margin-top: 40px;
+}

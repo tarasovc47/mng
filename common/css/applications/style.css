@@ -1,0 +1,367 @@
+.application-stack{
+	margin-bottom: 5px;
+}
+
+.application-stack .application-stack-id{
+	padding: 10px;
+}
+
+.application-stack .application-stack-id a{
+	font-size: 16px;
+}
+
+.application-stack .application-container{
+	margin-bottom: 100px;
+}
+
+.application-stack .application-container:last-child{
+	margin-bottom: 0;
+}
+
+.application-stack .application{
+	background-color: #ececec;
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px #a8a8a8;
+	padding: 10px;
+}
+
+.application-stack .application .application-id{
+	font-size: 28px;
+	margin-bottom: 20px;
+	padding: 0 5px;
+}
+
+.application .application-info{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+	padding: 5px 0;
+	margin-bottom: 30px;
+}
+
+.application .application-info__client{
+	width: 48%;
+}
+
+.application .application-info__app{
+	width: 50%;
+}
+
+.application .application-info .item{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	border-bottom: 1px solid #ced5db;
+	padding: 2px 5px;
+}
+
+.application .application-info .item:last-child{
+	border: none;
+}
+
+.application .application-info .item .caption{
+	width: 30%;
+	margin-right: 5%;
+	font-weight: 600;
+}
+
+.application .application-info .item .data{
+	width: 65%;
+}
+
+.application .application-info .data{
+	display: flex;
+}
+
+.application .application-info .data select{
+	margin-right: 5px;
+}
+
+.application .application-info .data select,
+.application .application-info .data .cancel-set{
+	display: none;
+}
+
+@media(max-width: 1100px){
+	.application .application-info{
+		display: block;
+	}
+
+	.application .application-info__client,
+	.application .application-info__app{
+		width: auto;
+	}
+
+	.application .application-info__app{
+		margin-bottom: 40px;
+	}
+}
+
+@media(max-width: 500px){
+	.application .application-info .item{
+		display: block;
+	}
+
+	.application .application-info .item .caption,
+	.application .application-info .item .data{
+		width: auto;
+		margin: 0;
+	}
+
+	.application-stack .application .application-id{
+		font-size: 19px;
+	}
+}
+
+.application .application-attributes{
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+.application-attributes__line .panel-heading{
+	padding: 0;
+}
+
+.application .application-attributes .attribute .attribute,
+.application .application-attributes .property .property{
+	padding-left: 15px;
+}
+
+.application .application-history{
+	border-top: 3px solid #ced5db;
+	padding: 5px;
+}
+
+.application .application-history__title{
+	margin-bottom: 5px;
+}
+
+.application .application-history__title .switch{
+	font-size: 18px;
+	margin: 0 5px;
+	color: #337ab7;
+}
+
+.application .application-history__title .caption{
+	cursor: pointer;
+}
+
+.application .application-history__title .pale{
+	opacity: 0.5;
+}
+
+.application .application-history__title .caption,
+.application .application-history__title .switch{
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.application-attributes__line .panel-heading a{
+	padding: 10px 15px;
+	display: block;
+}
+
+.application .application-history__element{
+	display: flex;
+    flex-direction: row;
+    align-items: stretch;
+	font-size: 11px;
+	border-bottom: 1px solid #f1f1f1;
+	margin-top: 2px;
+	padding-bottom: 2px;
+}
+
+.application .application-history__element-body i{
+	font-style: normal;
+	color: #26a65B;
+}
+
+.application .application-history__element:last-child{
+	border: none;
+}
+
+.application .application-history__element-date{
+	margin-right: 10px;
+	width: 145px;
+	color: #4b77be;
+    flex-shrink: 0;
+}
+
+@media(max-width: 500px){
+	.application .application-history__element-date{
+		width: 100px;
+	}
+
+	.application .application-history__element-date i{
+		display: block;
+	}
+}
+
+.field{
+	padding: 0 5px;
+	border: 1px solid #ced5db;
+	font-size: 12px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.field-label{
+	font-weight: 700;
+}
+
+.application-stack .application-short{
+	margin: 10px 0 20px 5px;
+	display: flex;
+	flex-direction: row;
+    align-items: center;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.application-stack .application-short__content{
+	padding: 0 0 5px 10px;
+	border-left: 1px solid #a9a9a9;
+	position: relative;
+}
+
+.application-stack .application-short__content:before,
+.application-stack .application-short__content:after{
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-bottom: 1px solid #a9a9a9;
+	width: 5px;
+}
+
+.application-stack .application-short__content:after{
+	top: auto;
+	bottom: 0;
+}
+
+.application-short .application-short_checkbox{
+	margin: 0 10px 0 0;
+	width: 17px;
+    height: 17px;
+}
+
+.application-short .application-short__last-attributes,
+.application-short .application-short__client-address_post{
+	padding: 3px;
+}
+
+.application-short .application-short__last-attributes{
+	display: flex;
+}
+
+.application-short .application-short__last-attributes .attribute.without-arrow .arrow{
+	display: none;
+}
+
+.application-short .application-short__last-attributes .attribute .field-wrap{
+	padding-left: 20px;
+}
+
+.application-short .application-short__last-attributes .attribute .field{
+	font-size: 10px;
+}
+
+.application-short__dates{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	font-size: 10px;
+	line-height: 14px;
+	margin-top: 3px;
+	border-top: 1px solid #ced5db;
+	background: #ffffff;
+}
+
+.application-short__dates > div{
+	padding: 3px 5px;
+}
+
+#applications-messages{
+	position: fixed;
+	height: 100px;
+    left: 255px;
+    right: 30px;
+    top: 55px;
+    z-index: 100;
+    display: none;
+    text-align: center;
+}
+
+@media (max-width: 767px){
+	#applications-messages{
+		position: fixed;
+	    left: 15px;
+	    right: 15px;
+	}
+}
+
+.application-actions{
+    margin-bottom: 10px;
+}
+
+.application-actions .btn{
+	margin: 5px;
+	width: 215px;
+	text-align: center;
+}
+
+#A-dialog .modal-header,
+#A-dialog .modal-body,
+#A-dialog .modal-footer{
+	padding: 0;
+	border: none;
+}
+
+@media (min-width: 768px){
+	#A-dialog .modal-dialog {
+	    width: auto;
+	    margin: 30px 80px;
+	}
+}
+
+.a-dialog__header{
+	padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.a-dialog__footer{
+	padding: 15px;
+    border-top: 1px solid #e5e5e5;
+    text-align: right;
+}
+
+.a-dialog__content{
+	padding: 15px;
+}
+
+.a-dialog__content .form-group{
+	margin-bottom: 30px;
+}
+
+.a-dialog__content .attribute .attribute{
+	padding-left: 15px;
+}
+
+.a-dialog__content .show-comment{
+	color: #abb7b7;
+    background-color: transparent;
+    background-image: none;
+    border-color: #abb7b7;
+    transition: all .15s ease-in-out;
+}
+
+.a-dialog__content .show-comment:hover,
+.a-dialog__content .show-comment:active,
+.a-dialog__content .show-comment:focus{
+    color: #ffffff;
+    background-color: #abb7b7;
+    border-color: #abb7b7;
+}

@@ -1,0 +1,68 @@
+#manag-companies__map, #manag-companies__branch_map{
+	max-width: 800px;
+	height: 400px;
+	margin-bottom: 15px;
+}
+
+.manag-companies__contacts{
+	margin: 15px 0;
+}
+
+.manag_companies__contact{
+	margin-bottom: 10px;
+    position: relative;
+    padding-right: 45px;
+}
+
+.manag_companies__contact_actions{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.manag_companies__contact_li{
+	display: table-row;
+}
+
+.manag_companies__contact_ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: table;
+}
+
+.manag_companies__agreements_ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.manag_companies__agreements_ul li{
+    margin-bottom: 10px;
+}
+
+.manag_companies__tab-content{
+	margin-top: 20px;
+}
+
+#manag-companies__general-map{
+	max-width: 900px;
+	height: 600px;
+}
+
+.manag_companies__contact_update{
+    cursor: pointer;
+}
+
+.manag-companies__view__address_link{
+    padding-left: 20px;
+}
+
+.manag-companies__contact-comments{
+    font-size: 13px;
+    color: #6C7A89;
+}
+
+.manag_companies__contact_update{
+    margin-right: 5px;
+}

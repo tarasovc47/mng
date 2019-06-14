@@ -1,0 +1,37 @@
+
+.abonent__left-menu{
+    width: 250px;
+    float: left;
+    margin-top: 23px;
+}
+
+#page-wrapper{
+    overflow: hidden;
+}
+
+.docs-archive-index{
+    overflow: hidden;
+}
+
+.page-header, .docs-archive-index{
+    margin-left: 275px;
+}
+
+.docs-archive__document-view iframe{
+    width: 100%;
+    max-width: 100%;
+    height: 1000px;
+}
+
+.docs-archives__nav-tabs{
+    margin-top: 30px;
+}
+
+.service_types_list li{
+    list-style: none;
+}
+
+.service_types_list{
+    padding-left: 0;
+    margin-bottom: 0;
+}

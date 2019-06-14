@@ -1,0 +1,22 @@
+<?php
+
+use yii\helpers\Html;
+
+
+/* @var $this yii\web\View */
+/* @var $model common\models\DistrictsAndAreas */
+
+$this->title = 'Создать округ или район';
+$this->params['breadcrumbs'][] = ['label' => 'Округа и районы', 'url' => ['index']];
+$this->params['breadcrumbs'][] = $this->title;
+?>
+<div class="districts-and-areas-create">
+
+    <h1><?= Html::encode($this->title) ?></h1>
+
+    <?= $this->render('_form', [
+        'model' => $model,
+        'types' => $types,
+    ]) ?>
+
+</div>

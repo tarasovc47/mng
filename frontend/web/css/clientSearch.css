@@ -1,0 +1,90 @@
+@media(min-width: 1000px) {
+	.search__query-zone .search__default, .search__query-zone .search__search-user-id{
+		width: 300px;
+	}
+
+	.search__query-zone .search__tariff-plans{
+		width: 300px;
+	}
+
+	.search__query-zone, .search__inline-block{
+		display: inline-block;
+	}
+}
+
+@media(min-width: 768px) and (max-width: 999px) {
+	.search__query-zone .search__default, .search__query-zone .search__search-user-id{
+		width: 200px;
+	}
+
+	.search__query-zone .search__tariff-plans{
+		width: 200px;
+	}
+
+	.search__query-zone, .search__inline-block{
+		display: inline-block;
+	}
+}
+
+@media(min-width: 300px) and (max-width: 767px) {
+	.search__query-zone .search__tariff-plans{
+		width: 100%;
+	}
+
+	.search__results-panel #abonents .table-responsive{
+		max-width: 800px;
+		width: auto;
+	}
+}
+
+.search__level, .search__only-active-logins{
+	padding-bottom: 20px;
+}
+
+.search__address{
+	padding-top: 10px;
+}
+
+
+.dropdown.search__services{
+	display: inline-block;
+}
+
+.search__result{
+	margin-top: 30px;
+}
+
+#search__results-panel{
+	padding-left: 0px;
+}
+
+.search__disabled-login{
+	color: #BDC3C7;
+}
+
+.search__result__show-more, .search__result__hide-more{
+	cursor: pointer;
+}
+
+.search__results__services{
+	max-width: 40%;
+}
+
+.search__results__services-login{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+}
+
+.search__results__pin-docs{
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+.search__results__pin-docs:hover, .search__results__pin-docs:focus{
+	text-decoration: none;
+}
+
+.search__results__abonent-info{
+	cursor: pointer;
+}

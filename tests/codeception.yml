@@ -1,0 +1,19 @@
+include:
+  - codeception/common
+  - codeception/console
+  - codeception/backend
+  - codeception/frontend
+
+paths:
+  log: codeception/_output
+
+settings:
+  colors: true
+  
+# modules:
+#     config:
+#         Db:
+#             dsn: 'sqlite:tests/_output/temp.db'
+#             user: ''
+#             password: ''
+#             dump: tests/_data/dump.sql

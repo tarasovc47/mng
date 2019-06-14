@@ -1,0 +1,86 @@
+.nav-tabs{
+	margin-bottom: 10px;
+}
+
+.private-field-params .field-section{
+	display: none;
+}
+
+.private-field-params .field-section.show{
+	display: block;
+}
+
+.scenarios__attributes{
+    padding-bottom: 10px;
+}
+
+.scenarios__attributes.view{
+    padding: 0;
+}
+
+.scenarios__attributes .attribute{
+    display: none;
+    color: #000000;
+}
+
+.scenarios__attributes .service,
+.scenarios__attributes .connection-technology{
+	color: #95A5A6;
+}
+
+.scenarios__attributes .connection-technology{
+	padding-left: 15px;
+}
+
+.scenarios__attributes .attribute.show,
+.scenarios__attributes.view .attribute{
+    display: block;
+}
+
+.scenarios__attributes .switcher,
+.scenarios__attributes .has-children.open > .fa-plus-square-o{
+    display: none;
+    cursor: pointer;
+}
+
+.scenarios__attributes .has-children > .fa-plus-square-o,
+.scenarios__attributes .has-children.open  >.fa-minus-square-o{
+    display: inline-block;
+}
+
+.scenarios__attributes .fa-minus-square-o,
+.visual-condition .remove{
+    color: #d9534f;
+    cursor: pointer;
+}
+
+.scenarios__attributes .fa-plus-square-o{
+    color: #286090;
+}
+
+.scenarios__attributes .choose{
+    text-decoration: underline;
+    font-size: 9px;
+    color: #337ab7;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+}
+
+.scenarios__attributes .choose:hover{
+    text-decoration: none;
+}
+
+.scenarios__attributes .text.added{
+    color: #449d44;
+}
+
+.field-techsupscenarios-techsup_attribute_id,
+.field-techsupscenarios-techsup_attribute_id .help-block{
+	margin: 0;
+}
+ 
+#techsupscenarios-techsup_attribute_id{
+	display: none;
+}

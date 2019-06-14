@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	Options +FollowSymlinks
+	RewriteBase /
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.*)$ index.php [L,QSA]
+</IfModule>
+
+php_value short_open_tag 1
+
+#AllowOverride All
+#Order deny,allow
+#Deny from all
+#Allow from 217.116.48.28 192.168.78.0/24 77.242.96.30 217.116.56.9 217.116.56.2 217.116.56.3 217.116.56.6

@@ -1,0 +1,11 @@
+.field{
+	padding: 0 5px;
+	border: 1px solid #ced5db;
+	font-size: 12px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.field-label{
+	font-weight: 700;
+}

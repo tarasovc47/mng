@@ -1,0 +1,13 @@
+.access-agreements.index .datepicker.datepicker-dropdown.dropdown-menu.datepicker-orient-left.datepicker-orient-bottom{
+    margin-top: 56px;
+}
+
+.zones__document-view iframe{
+    width: 100%;
+    max-width: 100%;
+    height: 1000px;
+}
+
+div.field-zonesaccessagreements-price_is_ratio{
+    margin-top: -8px;
+}

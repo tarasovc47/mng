@@ -1,0 +1,32 @@
+.profile__left-menu{
+	width: 250px;
+    float: left;
+    margin-top: 40px;
+}
+
+.profile{
+    overflow: hidden;
+}
+
+#page-wrapper{
+    overflow: hidden;
+}
+
+.page-header, .profile__search-settings{
+	margin-left: 275px;
+}
+
+.profile__search-settings td.search-settings__labels label{
+    font-weight: 400;
+    cursor: pointer;
+}
+
+#search-settings__save, 
+#search-settings__success, 
+#search-settings__danger{
+	display: none;
+}
+
+.search-settings__checkboxes{
+	text-align: center;
+}

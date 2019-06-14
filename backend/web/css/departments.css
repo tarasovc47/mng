@@ -1,0 +1,123 @@
+.search-settings__checkboxes{
+    text-align: center;
+}
+
+.search-settings__labels label{
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.departments-access .changes-saved,
+.cas-user-access .changes-saved{
+    color: #3c763d;
+    display: none;
+}
+
+#search-settings__save, #search-settings__success, #search-settings__danger{
+	display: none;
+}
+
+.groups__users-list{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.groups__users-list li{
+    cursor: url(../img/cursor_grab.cur) 16 16, url(../../img/cursor_grab.cur), move;
+}
+
+.groups__users-list li:active{
+    cursor: url(../img/cursor_grabbing.cur) 16 16, url(../../img/cursor_grabbing.cur), move;
+}
+
+.groups__users-list .placeholder{
+    height: 20px;
+    background: #fffa90;
+}
+
+.save-groups{
+	display: none;
+}
+
+.attributes-tree .panel-heading.service,
+.attributes-tree .panel-heading.technology,
+.properties-tree .panel-heading.type{
+    padding: 0;
+}
+
+.attributes-tree .panel-heading.service a,
+.attributes-tree .panel-heading.technology a,
+.properties-tree .panel-heading.type a{
+    display: block;
+    padding: 10px 15px;
+}
+
+.attributes-tree .panel-heading.service a,
+.properties-tree .panel-heading.type a{
+    color: #ffffff;
+}
+
+.attributes-index .save-sort{
+    display: none;
+}
+
+.attributes-tree__list,
+.properties-tree__list,
+.attributes-tree__list > li,
+.properties-tree__list > li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.attributes-tree__attribute .attributes-tree__attribute,
+.properties-tree__property .properties-tree__property{
+    padding-left: 15px;
+}
+
+.has-access .attributes-tree__attribute,
+.has-access .properties-tree__property{
+    cursor: url(../../img/cursor_grab.cur) 16 16, url(../../img/cursor_grab.cur), move;
+}
+
+.has-access .attributes-tree__attribute:active,
+.has-access .properties-tree__property:active{
+    cursor: url(../../img/cursor_grabbing.cur) 16 16, url(../../img/cursor_grabbing.cur), move;
+}
+
+.attributes-tree__attribute.ui-sortable-helper,
+.properties-tree__property.ui-sortable-helper{
+    background: #eeeeee;
+}
+
+.attributes-tree__attribute .attribute-name,
+.properties-tree__property .property-name{
+    padding-right: 65px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    position: relative;
+}
+
+.attributes-tree__attribute .attribute-name:hover,
+.properties-tree__property .property-name:hover{
+    background: #eeeeee;
+}
+
+.attributes-tree__attribute .attribute-actions,
+.properties-tree__property .property-actions{
+    position: absolute;
+    top: 2px;
+    right: 0;
+}
+
+.attributes-tree__attribute .attribute-actions a,
+.properties-tree__property .property-actions a{
+    margin-left: 5px;
+}
+
+.attributes-tree .placeholder,
+.properties-tree .placeholder{
+    height: 24px;
+    background: #fffa90;
+}
